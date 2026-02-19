@@ -1,7 +1,6 @@
 using System;
 using System.Drawing;
 using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using MultiMonitorPlatform.Automation;
 using MultiMonitorPlatform.Core;
@@ -507,3 +506,6 @@ namespace MultiMonitorPlatform.UI
         }
     }
 }
+
+// Task import
+using System.Threading.Tasks;
